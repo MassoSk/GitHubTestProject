@@ -10,7 +10,6 @@ namespace GitTestConsoleApp
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
